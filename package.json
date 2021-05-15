@@ -1,0 +1,25 @@
+{
+  "name": "laikabot",
+  "version": "1.0.0",
+  "description": "a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevrton/LaikaBOT.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "jevrton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jevrton/LaikaBOT/issues"
+  },
+  "homepage": "https://github.com/jevrton/LaikaBOT#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
