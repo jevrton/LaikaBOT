@@ -1,5 +1,5 @@
 #dependencies
-./node_modules
+/node_modules
 
 #important json
-./config.json
+/config.json
